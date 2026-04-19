@@ -6,11 +6,10 @@ return {
       hidden = true,
       ignored = true,
 
-      -- show hidden and ignored files in the picker
+      -- show hidden files in the picker
       sources = {
         files = {
           hidden = true,
-          ignored = true,
         },
       },
     },
