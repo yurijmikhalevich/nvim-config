@@ -1,1 +1,1 @@
-# Yurij's LazyVim config
+# Yurij's Neovim config
