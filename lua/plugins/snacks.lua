@@ -5,13 +5,6 @@ return {
       -- show hidden and ignored files in the explorer 
       hidden = true,
       ignored = true,
-
-      -- show hidden files in the picker
-      sources = {
-        files = {
-          hidden = true,
-        },
-      },
     },
   },
 }
